@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<!--<h1 align="center">Hi 👋, I'm ishan gupta</h1>
+<h1 align="center">Hi 👋, I'm ishan gupta</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ish1n&label=Profile%20views&color=0e75b6&style=flat" alt="ish1n" /> </p>
 
 - 🌱 I’m currently learning **Django**
@@ -24,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ish1n&show_icons=true&locale=en" alt="ish1n" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ish1n&" alt="ish1n" /></p>
-
