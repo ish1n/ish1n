@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ishan gupta</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ish1n&label=Profile%20views&color=0e75b6&style=flat" alt="ish1n" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **flask**
 
 - 📫 How to reach me **ishangupta409@gmail.com**
 
